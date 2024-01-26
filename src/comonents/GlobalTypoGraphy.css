@@ -1,0 +1,61 @@
+.sidePanelTitle {
+  /* font-family: Inter; */
+  font-size: 1rem;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 1.5rem;
+  color: #364152;
+}
+.detailsPopupHeader {
+  color: #364152;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 32px;
+}
+.detailsPopupContent {
+  color: #364152;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 20px;
+}
+.detailsPopupFooter {
+  color: #697586;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 20px;
+}
+
+.detailsPopupSideTitle {
+  color: #364152;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 28px;
+  margin: 0 0 1rem 0;
+}
+.detailsPopupHeading {
+  color: #697586;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 18px;
+}
+
+.screenTitle {
+  font-size: 1.875rem;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 2.375rem;
+  margin: 0 0 1.5rem 0;
+  color: #364152;
+}
+.tableRows {
+  color: #364152;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 22px;
+}
